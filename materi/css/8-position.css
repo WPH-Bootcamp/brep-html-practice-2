@@ -1,0 +1,33 @@
+.kotak {
+  width: 100px;
+  height: 100px;
+}
+
+.biru {
+  background-color: blue;
+}
+.merah {
+  background-color: red;
+}
+.hijau {
+  background-color: green;
+}
+
+/* 1. STATIC */
+.static {
+  position: static;
+  left: 100px;
+}
+
+/* 2. RELATIVE */
+.relative {
+  position: relative;
+  left: 200px;
+}
+
+/* 3. ABSOLUTE */
+.absolute {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}

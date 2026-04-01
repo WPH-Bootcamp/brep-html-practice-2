@@ -1,0 +1,30 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 150px;
+}
+
+/* 1. BORDER RADIUS */
+.bulet {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+/* 2. OVERFLOW */
+.container-overflow {
+  width: 100%;
+  height: 210px;
+  background-color: red;
+  overflow: auto;
+  overflow-x: scroll;
+}

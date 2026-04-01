@@ -1,0 +1,17 @@
+.kotak {
+  height: 100px;
+}
+
+.biru {
+  background-color: blue;
+}
+.merah {
+  background-color: red;
+}
+.hijau {
+  background-color: green;
+}
+
+a {
+  display: inline-block;
+}

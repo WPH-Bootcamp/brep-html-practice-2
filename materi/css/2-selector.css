@@ -1,0 +1,43 @@
+/* 1. ELEMENT SELECTOR (TAG HTML) */
+span {
+  color: green;
+  background-color: black;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+/* 2. CLASS SELECTOR (.) */
+.teks {
+  color: red;
+  background-color: darkcyan;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+/* 3. ID SELECTOR (#) */
+#kotak {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  color: white;
+}
+
+/* 4. DESCENDANT SELECTOR (SPASI) */
+div p {
+  color: yellow;
+  background-color: black;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+div span {
+  color: pink;
+  background-color: black;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+/* 5. CHILD SELECTOR (>) */
+div > p {
+  color: red;
+}

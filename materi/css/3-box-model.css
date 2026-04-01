@@ -1,0 +1,28 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+
+  /* 1. PADDING */
+  padding: 100px 70px 50px 10px;
+  padding-top: 100px;
+  padding-right: 70px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+
+  /* 2. BORDER */
+  /* PATTERN 
+    border: width style color;
+  */
+  border: 10px solid black;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+
+  /* 3. MARGIN */
+  margin: 100px 70px 50px 10px;
+  margin-top: 100px;
+  margin-right: 70px;
+  margin-bottom: 50px;
+  margin-left: 10px;
+}

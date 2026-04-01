@@ -1,0 +1,19 @@
+p {
+  /* 1. FONT FAMILY */
+  font-family: Arial, Calibri, Helvetica, 'Times New Roman', sans-serif, serif;
+
+  /* 2. FONT SIZE */
+  font-size: 20px;
+
+  /* 3. FONT WEIGHT */
+  font-weight: bolder;
+
+  /* 4. LINE HEIGHT */
+  line-height: 30px;
+
+  /* 5. COLOR */
+  color: #ff0000;
+
+  /* 6. TEXT ALIGN */
+  text-align: justify;
+}
